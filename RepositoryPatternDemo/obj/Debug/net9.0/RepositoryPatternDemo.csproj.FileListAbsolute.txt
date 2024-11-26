@@ -154,3 +154,4 @@ C:\Users\Josep\source\repos\CleanCode\DesignPrinciper\DesignPattern\RepositoryPa
 C:\Users\Josep\source\repos\CleanCode\DesignPrinciper\DesignPattern\RepositoryPatternDemo\RepositoryPatternDemo\obj\Debug\net9.0\RepositoryPatternDemo.pdb
 C:\Users\Josep\source\repos\CleanCode\DesignPrinciper\DesignPattern\RepositoryPatternDemo\RepositoryPatternDemo\obj\Debug\net9.0\RepositoryPatternDemo.genruntimeconfig.cache
 C:\Users\Josep\source\repos\CleanCode\DesignPrinciper\DesignPattern\RepositoryPatternDemo\RepositoryPatternDemo\obj\Debug\net9.0\ref\RepositoryPatternDemo.dll
+C:\Users\Josep\source\repos\CleanCode\DesignPrinciper\DesignPattern\RepositoryPatternDemo\RepositoryPatternDemo\obj\Debug\net9.0\RepositoryPatternDemo.sourcelink.json
