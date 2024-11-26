@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPatternDemo", "RepositoryPatternDemo\RepositoryPatternDemo.csproj", "{F87F2B82-71CF-4A4E-BF6A-44AB4E554F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{8EF62A0D-BE84-4DA5-B7F0-625ECF2E0506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F87F2B82-71CF-4A4E-BF6A-44AB4E554F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87F2B82-71CF-4A4E-BF6A-44AB4E554F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87F2B82-71CF-4A4E-BF6A-44AB4E554F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87F2B82-71CF-4A4E-BF6A-44AB4E554F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF62A0D-BE84-4DA5-B7F0-625ECF2E0506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF62A0D-BE84-4DA5-B7F0-625ECF2E0506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF62A0D-BE84-4DA5-B7F0-625ECF2E0506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF62A0D-BE84-4DA5-B7F0-625ECF2E0506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
